@@ -1,27 +1,34 @@
-# Laravel PHP Framework
+# Forum
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+## Main Features
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+### 1. Sections (Разделы).
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+![Creating new section](https://image.prntscr.com/image/9a2de187f9294ac08c1a04996aeef7d6.png "Creating new section")
 
-## Official Documentation
+### 2. Subsections (Подразделы).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+2.1. Subsection "Спорт"
+![Subsection "Спорт"](https://image.prntscr.com/image/c4b430de63a24b08b3f7418051d2d6d8.png "Subsection Спорт")
 
-## Contributing
+### 3. Topics (Темы).
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+3.1. Creating new Topic in Subsection "Спорт"
 
-## Security Vulnerabilities
+![Creating new Topic](https://image.prntscr.com/image/c3386fc26bb445e6b95fb9bc1f23b9bb.png "Creating new Topic")
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+3.2. Brand new created Topic (description of the topic = 1st topic message)
 
-## License
+![New Topic](https://image.prntscr.com/image/2f4549f13c754d418fb66b11ee2de7a9.png "New Topic")
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+### 4. Reputation (Репутация).
+
+4.1. Added new message to the topic. Changed reputation for the 1st message.
+
+![Changed reputation](https://image.prntscr.com/image/cadddf80b79e4639ac8878503cbb2e3d.png "Reputation")
+
+### 5. User Profile (Профиль пользователя).
+
+5.1. User profile page. Created topics, posted messages.
+
+![User Profile](https://image.prntscr.com/image/257f69be1141402dad0f692b9595e4fa.png "User Profile")
