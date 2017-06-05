@@ -1,0 +1,9 @@
+.vcenter {
+    display: inline-block;
+    vertical-align: middle !important;
+    float: none;
+}
+
+.section-title {
+    margin: 5px;
+}
